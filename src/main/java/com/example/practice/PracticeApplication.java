@@ -1,4 +1,4 @@
-package com.example.practice.controller;
+package com.example.practice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

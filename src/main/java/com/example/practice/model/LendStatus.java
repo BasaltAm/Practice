@@ -1,2 +1,5 @@
-package com.example.practice.model;public enum LendStatus {
+package com.example.practice.model;
+
+public enum LendStatus {
+    AVAILABLE, BURROWED
 }

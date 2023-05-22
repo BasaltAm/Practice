@@ -1,5 +1,5 @@
 package com.example.practice.model;
 
-public enum MemberStatus {
+public enum UserStatus {
     ACTIVE, DEACTIVATED
 }

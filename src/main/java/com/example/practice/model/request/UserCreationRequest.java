@@ -4,7 +4,7 @@ import lombok.Data;
 
 @Data
 
-public class MemberCreationRequest {
+public class UserCreationRequest {
     private String firstName;
     private String lastName;
 }
